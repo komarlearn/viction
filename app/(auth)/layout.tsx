@@ -9,7 +9,7 @@ export default function AuthLayout({
         <>
             <Header />
             {children}
-            <section className="bg-[#1b7bea] h-full">
+            <section className="bg-[#37e773] h-full">
                 <div className="xl:w-[1140px] flex justify-center mx-auto max-md:flex-col">
                     <div className="xl:w-[570px] md:w-1/2 xl:h-[400px] md:p-[30px] max-md:px-[30px] max-md:pt-[30px]">
                         <h1 className="xl:text-[60px] max-xl:text-[35px] font-Montserrat text-black font-bold">

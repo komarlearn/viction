@@ -5,7 +5,7 @@ const SectionD = () => {
     return (
         <section className="h-max mb-[60px]">
             <div className="xl:w-[1140px] mx-auto pt-[65px]">
-                <h2 className="font-Montserrat font-bold w-full max-md:mb-[30px] max-md:text-[30px] md:max-xl:text-[60px] text-center xl:text-[60px] md:mb-[50px]">
+                <h2 className="font-Montserrat text-white font-bold w-full max-md:mb-[30px] max-md:text-[30px] md:max-xl:text-[60px] text-center xl:text-[60px] md:mb-[50px]">
                     Well help manage your business
                 </h2>
                 <div className="flex flex-wrap gap-[15px] justify-center max-sm:px-[10px]">
@@ -17,7 +17,7 @@ const SectionD = () => {
                             <svg
                                 xmlnsXlink="http://www.w3.org/1999/xlink"
                                 viewBox="0 0 512 512"
-                                fill="#1b7bea"
+                                fill="#cfcfcf"
                                 className="w-[148px] "
                             >
                                 <switch>
@@ -45,7 +45,7 @@ const SectionD = () => {
                             src="/images/home/sectionD/bf5831c7-be61-2575-6483-f38c1ca09a87.jpeg"
                         />
                         <div className="p-[30px] relative z-20">
-                            <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-white max-sm:text-center">
+                            <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-black max-sm:text-center">
                                 TRADING
                             </h4>
                             <div className="mt-[40px] flex justify-center">
@@ -68,15 +68,15 @@ const SectionD = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="w-[369px] bg-[#1b7bea] rounded-3xl h-[369px] p-[30px] flex flex-col justify-center items-center">
-                        <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-white max-sm:text-center">
+                    <div className="w-[369px] bg-[#37e773] rounded-3xl h-[369px] p-[30px] flex flex-col justify-center items-center">
+                        <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-black max-sm:text-center">
                             ANALISA
                         </h4>
                         <div className="mt-[40px]">
                             <svg
                                 xmlnsXlink="http://www.w3.org/1999/xlink"
                                 viewBox="0 0 512 512"
-                                fill="#37e773"
+                                fill="#cfcfcf"
                                 className="w-[148px] "
                             >
                                 <switch>
@@ -88,8 +88,8 @@ const SectionD = () => {
                             </svg>
                         </div>
                     </div>
-                    <div className="w-[369px] bg-[#1b7bea] rounded-3xl h-[369px] p-[30px] flex flex-col justify-center items-center">
-                        <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-white max-sm:text-center">
+                    <div className="w-[369px] bg-[#37e773] rounded-3xl h-[369px] p-[30px] flex flex-col justify-center items-center">
+                        <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-black max-sm:text-center">
                             NEWS &amp; UPDATE
                         </h4>
                         <div className="mt-[40px]">
@@ -118,7 +118,7 @@ const SectionD = () => {
                             <svg
                                 xmlnsXlink="http://www.w3.org/1999/xlink"
                                 viewBox="0 0 512 512"
-                                fill="#1b7bea"
+                                fill="#cfcfcf"
                                 className="w-[148px] "
                             >
                                 <switch>
@@ -146,7 +146,7 @@ const SectionD = () => {
                             src="/images/home/sectionD/wewe.jpeg"
                         />
                         <div className="p-[30px] relative z-20">
-                            <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-white max-sm:text-center">
+                            <h4 className="text-[30px] font-Montserrat uppercase tracking-wide font-medium text-black max-sm:text-center">
                                 MEMBERSHIP
                             </h4>
                             <div className="mt-[40px] flex justify-center">

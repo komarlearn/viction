@@ -20,7 +20,7 @@ const SectionC = () => {
                                 </ul>
                             </div>
                             <a href="/real-akun">
-                                <button className="max-md:mt-5 md:mt-[40px] py-[18px] px-[40px] rounded-xl bg-[#1b7bea] w-max max-sm:w-full">
+                                <button className="max-md:mt-5 md:mt-[40px] py-[18px] px-[40px] rounded-xl bg-[white] w-max max-sm:w-full">
                                     <p className=" text-[#37e773] font-Open_Sans text-[12px] uppercase font-bold">
                                         lebih lanjut
                                     </p>
@@ -39,7 +39,7 @@ const SectionC = () => {
                                 </ul>
                             </div>
                             <a href="/real-akun">
-                                <button className="max-sm:mt-5 md:mt-[20px] py-[18px] px-[40px] rounded-xl bg-[#1b7bea] max-sm:w-full">
+                                <button className="max-sm:mt-5 md:mt-[20px] py-[18px] px-[40px] rounded-xl bg-[white] max-sm:w-full">
                                     <p className=" text-[#37e773] font-Open_Sans text-[12px] uppercase font-bold">
                                         lebih lanjut
                                     </p>

@@ -5,7 +5,7 @@ const SectionH = () => {
     return (
         <section>
             <div className="relative">
-                <div className="bg-[#1b7bea] absolute z-10 w-full h-full" />
+                <div className="bg-[#37e773] absolute z-10 w-full h-full" />
                 <div className="flex flex-col justify-center">
                     <div className="xl:w-[1140px] mx-auto relative z-30 pb-16 max-xl:px-[40px]">
                         <div className="flex flex-wrap justify-between gap-8 max-md:justify-center">

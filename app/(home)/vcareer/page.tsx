@@ -51,7 +51,7 @@ const page = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="bg-[#f1c50e] py-[25px] px-[45px] rounded-full h-min max-[848px]:hidden">
+                        <div className="bg-[#37e773] py-[25px] px-[45px] rounded-full h-min max-[848px]:hidden">
                             <p className="uppercase font-extrabold font-Montserrat text-[50px] text-white">
                                 benefits
                             </p>
@@ -131,7 +131,7 @@ const page = () => {
                 </div>
             </div>
             <div className="xl:mt-[60px] flex justify-center">
-                <div className="flex justify-center items-center flex-col bg-[#f1c50e] max-md:px-4 max-sm:py-6 w-full sm:py-[25px]">
+                <div className="flex justify-center items-center flex-col bg-[#37e773] max-md:px-4 max-sm:py-6 w-full sm:py-[25px]">
                     <div>
                         <h1 className="font-Montserrat font-bold text-center sm:text-[40px] max-sm:text-[27px]">
                             Temukan Peluang Anda bersama Vplus

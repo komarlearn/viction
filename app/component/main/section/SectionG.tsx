@@ -5,11 +5,11 @@ const SectionG = () => {
     return (
         <section className="">
             <div className="relative">
-                <div className="bg-[#1b7bea] absolute z-10 w-full h-full" />
+                <div className="bg-slite-950 absolute z-10 w-full h-full" />
                 <div className="bg-[#37e773] w-full h-[536px] absolute z-20" />
                 <div className="flex flex-col justify-center">
                     <div className="xl:w-[1140px] mx-auto py-16 relative z-30">
-                        <h1 className="font-Montserrat text-black font-bold text-center mb-11 xl:text-[60px] max-sm:text-[36px] sm:max-lg:text-[48px] lg:text-[60px]">
+                        <h1 className="font-Montserrat text-white font-bold text-center mb-11 xl:text-[60px] max-sm:text-[36px] sm:max-lg:text-[48px] lg:text-[60px]">
                             Good To Know
                         </h1>
                         <div className="flex flex-wrap justify-center gap-4">

@@ -25,7 +25,7 @@ const SectionF = () => {
                             Hasilkan uang dengan klik melalui HP anda.
                         </p>
                         <a href="/real-akun">
-                            <button className="uppercase text-[#1b7bea] bg-[#37e773] mt-[20px] text-[12px] py-[15px] px-[41px] w-[172px] h-[50px] font-bold rounded-xl">
+                            <button className="uppercase text-white bg-[#37e773] mt-[20px] text-[12px] py-[15px] px-[41px] w-[172px] h-[50px] font-bold rounded-xl">
                                 Lebih Lanjut
                             </button>
                         </a>

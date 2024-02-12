@@ -3,9 +3,10 @@ import React from "react";
 import { Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Button } from "@nextui-org/react";
 import { Link } from "@nextui-org/react";
 import Image from "next/image";
+
 export default function Header() {
     return (
-        <header className="bg-white">
+        <header className="bg-slate-950">
             <div className="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
                 <div className="flex h-16 items-center justify-between">
                     <div className="md:flex md:items-center md:gap-12">
@@ -33,6 +34,7 @@ export default function Header() {
                                 <Dropdown>
                                     <DropdownTrigger>
                                         <Button
+                                            className="text-white"
                                             variant="light"
                                         >
                                             Trading
@@ -48,6 +50,7 @@ export default function Header() {
                                 <Dropdown>
                                     <DropdownTrigger>
                                         <Button
+                                            className="text-white"
                                             variant="light"
                                         >
                                             Market
@@ -63,6 +66,7 @@ export default function Header() {
                                 <Dropdown>
                                     <DropdownTrigger>
                                         <Button
+                                            className="text-white"
                                             variant="light"
                                         >
                                             Edukasi
@@ -78,6 +82,7 @@ export default function Header() {
                                 <Dropdown>
                                     <DropdownTrigger>
                                         <Button
+                                            className="text-white"
                                             variant="light"
                                         >
                                             Company
@@ -89,15 +94,7 @@ export default function Header() {
                                         <DropdownItem><Link href="/tanya-jawab-vplus" color="foreground">Tanya Jawab Vplus</Link></DropdownItem>
                                     </DropdownMenu>
                                 </Dropdown>
-
-
-
-
-                                <li><Link href="/vcareer" color="foreground"> VCareer</Link></li>
-
-
-
-
+                                <li ><Link href="/vcareer" color="foreground" className="text-white"> VCareer</Link></li>
 
                             </ul>
                         </nav>
@@ -115,11 +112,13 @@ export default function Header() {
                             <div className="hidden sm:flex">
                                 <a
                                     className="rounded-md bg-green-400 px-5 py-2.5 text-sm font-medium text-white-400 shadow"
-                                    href="/akun-real"
+                                    href="/sign-up"
                                 >
                                     Akun Real
                                 </a>
                             </div>
+
+
                         </div>
 
                         <div className="block md:hidden">

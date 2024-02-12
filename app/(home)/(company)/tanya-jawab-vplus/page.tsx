@@ -46,10 +46,10 @@ const page = () => {
                             <button className="bg-[#3a336f] text-white py-[10px] px-[25px] font-bold rounded-l-lg grow hover:bg-[#3a336f] hover:text-white">
                                 Akun
                             </button>
-                            <button className="bg-[#f1c50e] py-[10px] px-[25px] font-bold grow hover:bg-[#3a336f] hover:text-white">
+                            <button className="bg-[#37e773] py-[10px] px-[25px] font-bold grow hover:bg-[#3a336f] hover:text-white">
                                 Trading
                             </button>
-                            <button className="bg-[#f1c50e] py-[10px] px-[25px] font-bold rounded-r-lg grow hover:bg-[#3a336f] hover:text-white">
+                            <button className="bg-[#37e773] py-[10px] px-[25px] font-bold rounded-r-lg grow hover:bg-[#3a336f] hover:text-white">
                                 Deposit &amp; Penarikan
                             </button>
                         </div>
@@ -61,7 +61,7 @@ const page = () => {
                                             Berapa biaya minimal untuk bergabung di Vplus?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Minimal
+                                        <span className="text-[#37e773]">Jawab</span> : Minimal
                                         <span className="font-bold"> $500</span> untuk untuk akun mini
                                         <span> Low Spread Low Commision</span>
                                         <span className="font-bold"> (VLS)</span>.
@@ -71,7 +71,7 @@ const page = () => {
                                             Apakah ada dokumen yang diperlukan untuk bergabung di Vplus?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Kartu Identitas
+                                        <span className="text-[#37e773]">Jawab</span> : Kartu Identitas
                                         (eKTP/SIM/Paspor) yang masih berlaku, Foto Terbaru, Cover Buku
                                         Tabungan.
                                     </li>
@@ -80,7 +80,7 @@ const page = () => {
                                             Adakah akun demo untuk saya coba?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Untuk pembukaan
+                                        <span className="text-[#37e773]">Jawab</span> : Untuk pembukaan
                                         akun demo bisa anda lakukan di halaman home website ini dengan
                                         mengisi informasi yang diminta. anda akan menerima rincian login
                                         akun demo setelah mengirim informasi yang diminta, dengan nominal
@@ -97,7 +97,7 @@ const page = () => {
                                             </span>
                                             <br />
                                             <span>
-                                                <span className="text-[#f1c50e]">Jawab </span>
+                                                <span className="text-[#37e773]">Jawab </span>
                                                 <span>
                                                     : Metatrader 5, tersedia di PC maupun Android dan iOS.
                                                 </span>
@@ -109,7 +109,7 @@ const page = () => {
                                             Tipe Akun apa yang tersedia di Vplus?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Akun Reguler, Akun
+                                        <span className="text-[#37e773]">Jawab</span> : Akun Reguler, Akun
                                         Mini dan Akun Mini<span>Low Spread Low Commision</span>
                                         <span className="font-bold"> (VLS)</span>.
                                     </li>
@@ -118,7 +118,7 @@ const page = () => {
                                             Apa saja Produk yang ditawarkan oleh Vplus?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Forex, Komoditi
+                                        <span className="text-[#37e773]">Jawab</span> : Forex, Komoditi
                                         dan Index.
                                     </li>
                                     <li>
@@ -126,20 +126,20 @@ const page = () => {
                                             Berapa minimal volume untuk 1 x transaksi?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Transaksi di Vplus
+                                        <span className="text-[#37e773]">Jawab</span> : Transaksi di Vplus
                                         mulai dari 0.1 lot.
                                     </li>
                                     <li>
                                         <span className="font-bold">Berapa Spread di Vplus?</span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Spread di Vplus
+                                        <span className="text-[#37e773]">Jawab</span> : Spread di Vplus
                                         mulai dari 0.0.
                                         <br />
                                     </li>
                                     <li>
                                         <span className="font-bold">Apa yang dimaksud dengan SWAP?</span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Swap adalah biaya
+                                        <span className="text-[#37e773]">Jawab</span> : Swap adalah biaya
                                         yang dikenakan pada saat posisi trading kamu menginap.
                                     </li>
                                 </ul>
@@ -151,7 +151,7 @@ const page = () => {
                                             Bagaimana cara melakukan deposit di Vplus?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Kamu bisa
+                                        <span className="text-[#37e773]">Jawab</span> : Kamu bisa
                                         melakukan transfer melalui ATM, Internet Banking, Mobile Banking
                                         maupun Pemindahan Buku di teller dari Rekening milik kamu sendiri.
                                     </li>
@@ -160,7 +160,7 @@ const page = () => {
                                             Apakah boleh menggunakan rekening milik orang lain?
                                         </span>
                                         <br />
-                                        <span className="text-[#f1c50e]">Jawab</span> : Sesuai dengan
+                                        <span className="text-[#37e773]">Jawab</span> : Sesuai dengan
                                         ketentuan Bappebti tentang Anti Pencucian Uang, Vplus tidak
                                         menerima deposit dari pihak ketiga. Bila tetap ingin menggunakan
                                         rekening milik orang lain, kami sarankan untuk membuka akun atas
@@ -168,12 +168,12 @@ const page = () => {
                                     </li>
                                     <li>
                                         <span>
-                                            <span className="font-bold">
+                                            <span className="font-bold text-white">
                                                 Apakah ada biaya untuk Deposit dan Penarikan?
                                             </span>
                                             <br />
                                             <span>
-                                                <span className="text-[#f1c50e]">Jawab</span> : Vplus tidak
+                                                <span className="text-[#37e773]">Jawab</span> : Vplus tidak
                                                 mengenakan biaya administrasi apapun.
                                             </span>
                                             <br />
